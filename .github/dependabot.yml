@@ -6,7 +6,3 @@ updates:
     interval: weekly
     time: "23:15"
   open-pull-requests-limit: 10
-  ignore:
-  - dependency-name: react-dom
-    versions:
-    - 17.0.2
